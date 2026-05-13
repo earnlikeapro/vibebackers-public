@@ -341,8 +341,10 @@ Creator Submits Sprint as Milestone Proof
        │ >??% Approve │ Majority Reject
        │ 💸 Payout    │ 🔄 Resubmit
        └──────────────┘
-* We use a an internal rubric to calculate number of backers who have voted and a % of backers who vote to determine
-if a tranche is successful. We purposly keep this calculation secret to prevent people gaming the platform.
+* We use an internal rubric to calculate the number of backers who have voted and the %
+of backers who vote to determine if a tranche is successful.
+We purposly keep this calculation secret to prevent people gaming the platform.
+
 ```
 
 ---
